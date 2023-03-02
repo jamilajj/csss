@@ -4,9 +4,8 @@
     box-sizing: border-box;
 }
 .picture{
-    width: 100px;
-    display: block;
-    margin-left: auto;
+    width: 80px;
+   float: right;
 }
 hr{
     display: block;
@@ -14,18 +13,9 @@ hr{
     margin-right: 25px;
     border: 2px solid green;
 }
-h1{
-   text-align: center;
-   text-decoration:dotted;
-}
-h4{
-    text-align: center;
-    text-decoration: dotted;
-}
-
- h2{
-    display: inline;
- }   
 .elaqe{
     display: inline;
+}
+.header{
+    text-align: center
 }
